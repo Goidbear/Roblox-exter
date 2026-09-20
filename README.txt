@@ -39,8 +39,6 @@ next to the exe.
   patch, the offsets in `src/roblox/offsets.h` need refreshing.
 - **Server-side walkspeed caps.** In games with strict anti-cheat, the
   server will reset your speed. Turn walkspeed off in those servers.
-- **Windows Defender / SmartScreen may flag this.** It's an unsigned
-  external memory tool. Add an exclusion if you want to run it.
 
 ## building from source
 
@@ -55,8 +53,8 @@ cmake --build build --config Release
 ```
 
 ## credits
-
 Offsets from [theo's offsets](https://offsets.imtheo.lol).
 
-
+## more stuff lol
+It might get flagged by antiviruses but it didn't happend to me so far.
 Mostly broken but enjoy👍
