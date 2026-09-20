@@ -56,5 +56,5 @@ cmake --build build --config Release
 Offsets from [theo's offsets](https://offsets.imtheo.lol).
 
 ## more stuff lol
-It might get flagged by antiviruses but it didn't happend to me so far.
+10/69 in virus total damn.
 Mostly broken but enjoy👍
